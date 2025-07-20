@@ -1,4 +1,5 @@
-# name - Prachi Gupta
+# CLOUD COMPUTING
+# Name - Prachi Gupta
 # Intern ID - CT08DL489
 # Domain - cloud computing 
 # Duration- 6 weeks 
