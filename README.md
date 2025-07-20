@@ -1,3 +1,8 @@
+# name - Prachi Gupta
+# Intern ID - CT08DL489
+# Domain - cloud computing 
+# Duration- 6 weeks 
+# Mentor - Neela Santosh
 # Task 4 – Cloud Security (CodTech Internship)
 
 This repository contains the implementation of IAM policies, secure S3 storage, and data encryption using AWS.
